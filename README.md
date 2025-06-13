@@ -1,11 +1,6 @@
 
 ![wert](https://github.com/user-attachments/assets/be012753-5e4a-44b4-8643-e20ced5d8c15)
 
-
-https://github.com/user-attachments/assets/c7984e9d-b162-481e-ab24-eb63d5b6b8b7
-
-
-
 <h1 align="center">Hi 👋, I'm Codingcad Technologies (Pvt) Ltd</h1>
 <h3 align="center">"We Make it Easier"</h3>
 
